@@ -1,0 +1,31 @@
+.f {
+    display: flex;
+
+}
+.jc-b {
+    justify-content:space-evenly;
+}
+.ai-c {
+    align-items: flex-start;
+}
+
+.jc-c{
+    justify-content:center;
+}
+
+.bold {
+    font-weight:bold;
+}
+.acn {
+    margin-left: 38px;
+    font-size: 25px;
+}
+.wrld {
+    margin-top: 0px;
+    margin-left: 84px;
+
+}
+.alcn {
+    text-align: center;
+    font-size: 25px;
+}

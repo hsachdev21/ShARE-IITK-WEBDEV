@@ -1,0 +1,82 @@
+@import url('./utils.css');
+
+
+.boxp1 {
+    border: 1px grey solid;
+    width: 900px;
+    height: 196px;
+    box-shadow: 3px 3px 7px;
+    padding: 0px 16px;
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    /* background-color: blue; */
+    border-radius: 19px;
+}
+
+.boxp2 {
+    border: 1px grey solid;
+    width: 500px;
+    height: 313px;
+    box-shadow: 3px 3px 7px;
+    padding: 0px 16px;
+    margin-right:px;
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    border-radius: 25px;
+    /* background-color: blue; */
+}
+
+section div h1 {
+    text-align: center;
+}
+
+#align {
+    margin-left: 362px;
+}
+
+.parent {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.btn {
+    background-color: #00c782;
+    border-radius: 34px;
+    padding: 0.5px 7px;
+    border-color: transparent;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.grn {
+    color: #00c782;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.fnt {
+    font-size: 40px;
+  }
+
+  .ali {
+    margin-right: 47px;
+  }
+.btn2 {
+    background-color: #00c782;
+    font-size: 19px;
+    padding: 7px 42px;
+    border-radius:50px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn2:hover {
+    background-color: black;
+    color: white;
+}
+.vid {
+    border-radius: 16px;
+    box-shadow: 3px 3px 7px;
+}
